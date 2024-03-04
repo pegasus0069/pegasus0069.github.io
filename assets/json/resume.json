@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Noor-E-Sadman",
+    "label": "Adjunct Faculty",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "nooresadman@gmail.com",
+    "phone": "+8801717916061",
+    "url": "https://nooresadman.me",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "House",
+      "postalCode": "Dhaka 1230",
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": "Dhaka"
     },
     "profiles": [
       {
